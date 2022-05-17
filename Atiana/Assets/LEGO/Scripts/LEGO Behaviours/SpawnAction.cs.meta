@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 23a0fcf8564f8a1478655486c5c559e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Brick: {instanceID: 0}
+  - m_Audio: {fileID: 8300000, guid: a6513d763294b4d24a39e405d131bbde, type: 3}
+  - m_Model: {fileID: 4961649301313133854, guid: a05afb62c04ea4ee98923cc3ea43b78d,
+      type: 3}
+  - m_BrickSnapAudio: {fileID: 8300000, guid: 4b8dc171ea53e4e9a9888deeadb024a1, type: 3}
+  - m_Effect: {fileID: 179477820332501499, guid: 9c4fe1be4a9db448fbd3a52c5abdaab1,
+      type: 3}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 78f5b3d1a121545ddaeaea70c347811d, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
