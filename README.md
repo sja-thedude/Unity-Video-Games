@@ -1,8 +1,20 @@
 # Unity-Video-Games  Created By Syeda Juveria Afreen
 
+# Worked on Projects from Scratch:
+
+## 3D Endless Runner GAME (Working on)
+
+## Driving & Racing Game (Working on)
+
+## 3rd Person Platform Game (Working on)
+
 ## 3D FPS GAME 
 This game is made from scratch for as an assignment for flying fox. I have build a gun which have the functionality to shoot. 
 [Video](https://www.loom.com/share/f4883c4f01ac4787871f22b960488dd1)
+
+-------------------------------------------------------------------------------------------------------------
+
+# Worked on Existing Projects:
 
 ## ATIANA
 This project is made for my final project during masters. This project is made with lego characters, in this the character is supposed to collect all the pickups with crossing all the hurdles and reach then end before the time ends. This consists of 5 levels.
