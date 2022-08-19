@@ -2,6 +2,10 @@
 
 # Worked on Projects from Scratch:
 
+## HyperCasual Game (Working on)
+
+## Survival & Horror Game (Working on)
+
 ## 3D Endless Runner GAME (Working on)
 
 ## Driving & Racing Game (Working on)
@@ -9,7 +13,7 @@
 ## 3rd Person Platform Game (Working on)
 
 ## 3D FPS GAME 
-This game is made from scratch for as an assignment for flying fox. I have build a gun which have the functionality to shoot. 
+This game is made from scratch. I have build a gun which have the functionality to shoot. 
 [Video](https://www.loom.com/share/f4883c4f01ac4787871f22b960488dd1)
 
 -------------------------------------------------------------------------------------------------------------
