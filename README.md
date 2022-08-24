@@ -1,5 +1,22 @@
 # Unity-Video-Games  Created By [Syeda Juveria Afreen](https://github.com/sja-thedude) 
 
+# Worked on Projects From Scratch :
+
+## 3rd Person Platform Game (Working on)
+
+## 3D Endless Runner GAME (Working on)
+
+## 3D FPS GAME : 
+This 3D FPS Game is a game project created with Unity from scratch. I have build a gun which have the functionality to shoot. Click [here](https://www.loom.com/share/f4883c4f01ac4787871f22b960488dd1) to view the loom video explaining how the Gun works and what are its features.
+
+![scr](https://user-images.githubusercontent.com/70269507/186493296-ecb580e0-8286-4da2-bfe0-49224307cde9.png)
+
+<!-- ## HyperCasual Game (Working on)
+
+## Survival & Horror Game (Working on)
+
+## Driving & Racing Game (Working on) -->
+
 # Worked on Existing Projects:
 
 ## ATIANA :
@@ -21,24 +38,5 @@ This game is Furious Racer built with Unity & C#, which is basically a karting g
 This game Superb Performer is built with Unity & C#. which is a 2D game that focuses on character, the character needs to collect pickups and have to reach the end without running out of life. To view this click here: [LIVE](https://play.unity.com/mg/2d/webgl-builds-61949)
 
 ![game5](https://user-images.githubusercontent.com/70269507/186483829-2a4e5a7b-8586-43d3-9b37-f8b2e19cf9ea.png)
-
-# Worked on Projects From Scratch :
-
-## 3D FPS GAME : 
-
-This 3D FPS Game is a game project created with Unity from scratch. I have build a gun which have the functionality to shoot. Click [here](https://www.loom.com/share/f4883c4f01ac4787871f22b960488dd1) to view the loom video explaining how the Gun works and what are its features.
-
-![scr](https://user-images.githubusercontent.com/70269507/186493296-ecb580e0-8286-4da2-bfe0-49224307cde9.png)
-
-
-## 3D Endless Runner GAME (Working on)
-
-## HyperCasual Game (Working on)
-
-## Survival & Horror Game (Working on)
-
-## Driving & Racing Game (Working on)
-
-## 3rd Person Platform Game (Working on)
 
 # To View Apps made with Unity from scratch click [here](https://github.com/sja-thedude/Unity-Apps)
