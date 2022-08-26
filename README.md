@@ -5,7 +5,7 @@
 ## 3rd Person Platform Game (Working on)
 
 ## 3D Endless Runner Game :
-This 3D Endless Runner Game is a game project created with Unity & C# from scratch. I have build character which have the functionality to run and if hit my an obstacle or enemy it falls to the ground. The environment is built keeping forest in mind. Click [here]() to view the loom video explaining how the Game works and what are its features.
+This 3D Endless Runner Game is a game project created with Unity & C# from scratch. I have build character which have the functionality to run and if hit my an obstacle or enemy it falls to the ground. The environment is built keeping forest in mind. Click [here](https://www.loom.com/share/b9b7f6dc9853414f8c0e9824ba2bcd8a) to view the loom video explaining how the Game works and what are its features.
 
 <img src="https://user-images.githubusercontent.com/70269507/186939492-98591096-c63a-47c4-8b11-0114d9ed8586.png" width="800" height="400">
 
