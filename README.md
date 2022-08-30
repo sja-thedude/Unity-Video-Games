@@ -2,7 +2,10 @@
 
 # Worked on Projects From Scratch :
 
-## 3rd Person Platform Game (Working on)
+## 3rd Person Platform Game :
+This 3rd Person Platform Game is a game project created with Unity & C# from scratch. I have build character which have the functionality to run and jump. Thebaim of this is to collect pickups to increase score and reach the end before time runs out. Click [here]() to view the loom video explaining how the Game works and what are its features.
+
+<img src="https://user-images.githubusercontent.com/70269507/187381891-e08c71e5-f238-456a-964a-a16f51b05442.png" width="800" height="400">
 
 ## 3D Endless Runner Game :
 This 3D Endless Runner Game is a game project created with Unity & C# from scratch. I have build character which have the functionality to run and if hit my an obstacle or enemy it falls to the ground. The environment is built keeping forest in mind. Click [here](https://www.loom.com/share/b9b7f6dc9853414f8c0e9824ba2bcd8a) to view the loom video explaining how the Game works and what are its features.
