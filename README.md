@@ -3,17 +3,29 @@
 # Worked on Projects From Scratch :
 
 ## 3rd Person Platform Game :
-This 3rd Person Platform Game is a game project created with Unity & C# from scratch. I have build character which have the functionality to run and jump. Thebaim of this is to collect pickups to increase score and reach the end before time runs out. Click [here]() to view the loom video explaining how the Game works and what are its features.
+This 3rd Person Platform Game is a game project created with Unity & C# from scratch. I have build character which have the functionality to run and jump. The aim of this is to collect pickups to increase score and reach the end before time runs out. 
+
+Source Code :- Click [here](https://github.com/sja-thedude/Unity-Video-Games/tree/main/3rd%20Person%20Platform%20Game)
+
+To view the loom video explaining how the Game works and what are its features -: Click [here](https://www.loom.com/share/2e5257be494f42c4b4815dd301bc910b) 
 
 <img src="https://user-images.githubusercontent.com/70269507/187381891-e08c71e5-f238-456a-964a-a16f51b05442.png" width="800" height="400">
 
 ## 3D Endless Runner Game :
-This 3D Endless Runner Game is a game project created with Unity & C# from scratch. I have build character which have the functionality to run and if hit my an obstacle or enemy it falls to the ground. The environment is built keeping forest in mind. Click [here](https://www.loom.com/share/b9b7f6dc9853414f8c0e9824ba2bcd8a) to view the loom video explaining how the Game works and what are its features.
+This 3D Endless Runner Game is a game project created with Unity & C# from scratch. I have build character which have the functionality to run and if hit my an obstacle or enemy it falls to the ground. The environment is built keeping forest in mind. 
+
+Souce Code :- Click [here](https://github.com/sja-thedude/Unity-Video-Games/tree/main/3D%20Endless%20Runner%20Game)
+
+To view the loom video explaining how the Game works and what are its features -: Click [here](https://www.loom.com/share/b9b7f6dc9853414f8c0e9824ba2bcd8a)
 
 <img src="https://user-images.githubusercontent.com/70269507/186939492-98591096-c63a-47c4-8b11-0114d9ed8586.png" width="800" height="400">
 
 ## 3D FPS Game : 
-This 3D FPS Game is a game project created with Unity & C# from scratch. I have build a gun which have the functionality to shoot. Click [here](https://www.loom.com/share/f4883c4f01ac4787871f22b960488dd1) to view the loom video explaining how the Gun works and what are its features.
+This 3D FPS Game is a game project created with Unity & C# from scratch. I have build a gun which have the functionality to shoot.
+
+Source Code:- Click [here](https://github.com/sja-thedude/Unity-Video-Games/tree/main/3D%20FPS%20Game)
+
+To view the loom video explaining how the Gun works and what are its features -: Click [here](https://www.loom.com/share/f4883c4f01ac4787871f22b960488dd1)
 
 <img src="https://user-images.githubusercontent.com/70269507/186493296-ecb580e0-8286-4da2-bfe0-49224307cde9.png" width="800" height="400">
 
