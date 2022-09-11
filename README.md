@@ -1,7 +1,5 @@
 # Unity-Video-Games  Created By [Syeda Juveria Afreen](https://github.com/sja-thedude) 
 
-# Worked on Projects From Scratch :
-
 ## 3rd Person Platform Game :
 This 3rd Person Platform Game is a game project created with Unity & C# from scratch. I have build character which have the functionality to run and jump. The aim of this is to collect pickups to increase score and reach the end before time runs out. 
 
@@ -35,8 +33,6 @@ To view the loom video explaining how the Gun works and what are its features -:
 
 ## Driving & Racing Game (Working on) -->
 
-# Worked on Existing Projects:
-
 ## ATIANA :
 This project ATIANA is created with Unity & C# keeping in mind how robot world is. This project is made with lego characters, in this the character is supposed to collect all the pickups with crossing all the hurdles and reach the end before the time ends. This consists of 5 levels. To view this click here: [LIVE](https://play.unity.com/mg/lego/webgl-builds-74402)
 
@@ -56,5 +52,18 @@ This game is Furious Racer built with Unity & C#, which is basically a karting g
 This game Superb Performer is built with Unity & C#. which is a 2D game that focuses on character, the character needs to collect pickups and have to reach the end without running out of life. To view this click here: [LIVE](https://play.unity.com/mg/2d/webgl-builds-61949)
 
 <img src="https://user-images.githubusercontent.com/70269507/186483829-2a4e5a7b-8586-43d3-9b37-f8b2e19cf9ea.png" width="800" height="400">
+
+## Built With
+
+- Unity
+- C#
+
+## Game Developer
+
+👤 **Syeda Juveria Afreen**
+
+- GitHub: [@sja_thedude](https://github.com/sja-thedude)
+- Twitter: [@sja_thedude](https://twitter.com/sja_thedude)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sja-thedude)
 
 # To View Apps made with Unity from scratch click [here](https://github.com/sja-thedude/Unity-Apps)
